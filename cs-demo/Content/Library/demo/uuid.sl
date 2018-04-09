@@ -12,4 +12,3 @@ operation:
 
   results:
     - SUCCESS
-
